@@ -74,12 +74,12 @@ The mental model below summarizes the contents covered in this book.
 <br>
 &nbsp
 
-## Hardware Requirements
+## Hardware Requirements:
 
 The code in the main chapters of this book is designed to run on conventional laptops within a reasonable timeframe and does not require specialized hardware. This approach ensures that a wide audience can engage with the material. Additionally, the code automatically utilizes GPUs if they are available.
 
 &nbsp;
-## Bonus Material
+## Bonus Material:
 
 Several folders contain optional materials as a bonus for interested readers:
 
